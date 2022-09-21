@@ -1,1 +1,1 @@
-print("Aprendendo github, alteração")
+print("Aprendendo github")
