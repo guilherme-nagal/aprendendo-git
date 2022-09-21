@@ -10,5 +10,8 @@
     - README é o arquivo que terá as informações do projeto.
 - E para salvar esse arquivo README após ter editado ele clicar no botão “commit new file”.
     - Commit seria um rótulo do estado do nosso projeto naquela momento
-    
+ 
+ ## Editando arquivos
+ - Além de criar também podemos editar os arquivos, para isso basta clicar no lápis que fica no arquivo.
+ 
 > Status do projeto: Em desenvolvimento
